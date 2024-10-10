@@ -10,6 +10,9 @@ To use Advanced Encryption Standard (AES) Algorithm for a practical application 
 
 ## PROGRAM:
 ```
+//String=Dhinesh
+//Hex=6468696e657368
+
 #include <stdio.h>
 #include <stdint.h>
 #include <string.h>
